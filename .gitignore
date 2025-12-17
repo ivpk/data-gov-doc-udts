@@ -1,0 +1,21 @@
+﻿# Build artifacts
+_build/
+build/
+dist/
+*.egg-info/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv
+venv/
+.env
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
